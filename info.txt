@@ -1,1 +1,1 @@
-Estoy oranticado cambios en la misma rama.
+Hoy sigo pranticando en git
